@@ -1,0 +1,196 @@
+[
+    {
+        "flightNumber": "BAMI1235",
+        "origin": "Barcelona",
+        "destination": "Miami",
+        "seatType": "Economy",
+        "price": "650",
+        "date":"2024-02-10"
+      },
+      {
+        "flightNumber": "MIMA1420",
+        "origin": "Miami",
+        "destination": "Madrid",
+        "seatType": "Business",
+        "price": 4320.0,
+        "date":"2024-02-10"
+      },
+      {
+        "flightNumber": "MIMA1420",
+        "origin": "Miami",
+        "destination": "Madrid",
+        "seatType": "Economy",
+        "price": 2573.0,
+        "date":"2024-02-10"
+      },
+      {
+        "flightNumber": "BABU5536",
+        "origin": "Barcelona",
+        "destination": "BuenosAires",
+        "seatType": "Economy",
+        "price": 732.0,
+        "date":"2024-02-10"
+      },
+      {
+        "flightNumber": "BUBA3369",
+        "origin": "BuenosAires",
+        "destination": "Barcelona",
+        "seatType": "Business",
+        "price": 1253.0,
+        "date":"2024-02-12"
+      },
+      {
+        "flightNumber": "IGBA3369",
+        "origin": "Iguazu",
+        "destination": "Barcelona",
+        "seatType": "Economy",
+        "price": 540.0,
+        "date":"2024-03-01"
+      },
+      {
+        "flightNumber": "BOCA4213",
+        "origin": "Bogota",
+        "destination": "Cartagena",
+        "seatType": "Economy",
+        "price": 800.0,
+        "date":"2024-01-23"
+      },
+      {
+        "flightNumber": "CAME0321",
+        "origin": "Cartagena",
+        "destination": "Medellin",
+        "seatType": "Economy",
+        "price": 780.0,
+        "date":"2024-01-23"
+      },
+      {
+        "flightNumber": "BOIG6567",
+        "origin": "Bogota",
+        "destination": "Iguazu",
+        "seatType": "Business",
+        "price": 570.0,
+        "date":"2024-02-15"
+      },
+      {
+        "flightNumber": "BOBA6567",
+        "origin": "Bogota",
+        "destination": "BuenosAires",
+        "seatType": "Economy",
+        "price": 398.0,
+        "date":"2024-03-01"
+      },
+      {
+        "flightNumber": "BOMA4442",
+        "origin": "Bogota",
+        "destination": "Madrid",
+        "seatType": "Economy",
+        "price": 1100.0,
+        "date":"2024-02-10"
+      },
+      {
+        "flightNumber": "MEMI9986",
+        "origin": "Medellin",
+        "destination": "Miami",
+        "seatType": "Business",
+        "price": 1164.0,
+        "date":"2024-04-17"
+      },
+      {
+        "flightNumber": "BAMI1235",
+        "origin": "Miami",
+        "destination": "Barcelona",
+        "seatType": "Economy",
+        "price": "650",
+        "date":"2024-02-15"
+      },
+      {
+        "flightNumber": "MIMA1420",
+        "origin": "Madrid",
+        "destination": "Miami",
+        "seatType": "Business",
+        "price": 4320.0,
+        "date":"2024-02-20"
+      },
+      {
+        "flightNumber": "MIMA1420",
+        "origin": "Madrid",
+        "destination": "Miami",
+        "seatType": "Economy",
+        "price": 2573.0,
+        "date":"2024-02-21"
+      },
+      {
+        "flightNumber": "BABU5536",
+        "origin": "BuenosAires",
+        "destination": "Barcelona",
+        "seatType": "Economy",
+        "price": 732.0,
+        "date":"2024-02-17"
+      },
+      {
+        "flightNumber": "BABU5536",
+        "origin": "Barcelona",
+        "destination": "BuenosAires",
+        "seatType": "Business",
+        "price": 1253.0,
+        "date":"2024-02-23"
+      },
+      {
+        "flightNumber": "IGBA3369",
+        "origin": "Barcelona",
+        "destination": "Iguazu",
+        "seatType": "Economy",
+        "price": 540.0,
+        "date":"2024-03-16"
+      },
+      {
+        "flightNumber": "BOCA4213",
+        "origin": "Cartagena",
+        "destination": "Bogota",
+        "seatType": "Economy",
+        "price": 800.0,
+        "date":"2024-02-05"
+      },
+      {
+        "flightNumber": "CAME0321",
+        "origin": "Medellin",
+        "destination": "Cartagena",
+        "seatType": "Economy",
+        "price": 780.0,
+        "date":"2024-01-31"
+      },
+      {
+        "flightNumber": "BOIG6567",
+        "origin": "Iguazu",
+        "destination": "Bogota",
+        "seatType": "Business",
+        "price": 570.0,
+        "date":"2024-02-28"
+      },
+      {
+        "flightNumber": "BOBA6567",
+        "origin": "BuenosAires",
+        "destination": "Bogota",
+        "seatType": "Economy",
+        "price": 398.0,
+        "date":"2024-03-14"
+      },
+      {
+        "flightNumber": "BOMA4442",
+        "origin": "Madrid",
+        "destination": "Bogota",
+        "seatType": "Economy",
+        "price": 1100.0,
+        "date":"2024-02-24"
+      },
+      {
+        "flightNumber": "MEMI9986",
+        "origin": "Miami",
+        "destination": "Medellin",
+        "seatType": "Business",
+        "price": 1164.0,
+        "date":"2024-05-02"
+      }
+
+
+]

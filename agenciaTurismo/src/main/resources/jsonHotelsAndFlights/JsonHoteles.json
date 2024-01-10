@@ -1,0 +1,113 @@
+[
+    {
+    "hotelCode": "AR0002",
+    "name": "Atlantis",
+    "place": "Miami",
+    "isBooked": false,
+    "roomType": "double",
+    "roomPrice":630.0,
+    "disponibilityDateFrom":"2024-02-10",
+    "disponibilityDateTo":"2024-03-20"
+    },
+    {
+    "hotelCode": "AR0003",
+    "name": "Atlantis2",
+    "place": "Miami",
+    "isBooked": false,
+    "roomType": "triple",
+    "roomPrice":820.0,
+    "disponibilityDateFrom":"2024-02-10",
+    "disponibilityDateTo":"2024-03-23"
+    },
+    {
+        "hotelCode": "RC001",
+        "name": "Ritz-Carlton",
+        "place": "BuenosAires",
+        "isBooked": false,
+        "roomType": "single",
+        "roomPrice":543.0,
+        "disponibilityDateFrom":"2024-02-10",
+        "disponibilityDateTo":"2024-03-19"
+    },
+    {
+        "hotelCode": "RC002",
+        "name": "Ritz-Carlton2",
+        "place": "Medellin",
+        "isBooked": false,
+        "roomType": "double",
+        "roomPrice":720.0,
+        "disponibilityDateFrom":"2024-02-12",
+        "disponibilityDateTo":"2024-04-17"
+    },
+    {
+        "hotelCode": "GH001",
+        "name": "GrandHyatt2",
+        "place": "BuenosAires",
+        "isBooked": false,
+        "roomType": "single",
+        "roomPrice":415.0,
+        "disponibilityDateFrom":"2024-05-17",
+        "disponibilityDateTo":"2024-06-23"
+    },
+    {
+        "hotelCode": "HL001",
+        "name": "Hilton",
+        "place": "Barcelona",
+        "isBooked": false,
+        "roomType": "single",
+        "roomPrice":390.0,
+        "disponibilityDateFrom":"2024-02-17",
+        "disponibilityDateTo":"2024-03-23"
+    },
+    {
+        "hotelCode": "HL002",
+        "name": "Hilton2",
+        "place": "Barcelona",
+        "isBooked": false,
+        "roomType": "double",
+        "roomPrice":584.0,
+        "disponibilityDateFrom":"2024-03-18",
+        "disponibilityDateTo":"2024-04-23"
+    },
+    {
+        "hotelCode": "MT003",
+        "name": "Marriot",
+        "place": "Barcelona",
+        "isBooked": false,
+        "roomType": "double",
+        "roomPrice":702.0,
+        "disponibilityDateFrom":"2024-02-15",
+        "disponibilityDateTo":"2024-03-27"
+    },
+    {
+        "hotelCode": "SH004",
+        "name": "Sheraton",
+        "place": "Madrid",
+        "isBooked": false,
+        "roomType": "triple",
+        "roomPrice":860.0,
+        "disponibilityDateFrom":"2024-03-01",
+        "disponibilityDateTo":"2024-04-17"
+    },
+    {
+        "hotelCode": "SH003",
+        "name": "Sheraton2",
+        "place": "Iguazú",
+        "isBooked": false,
+        "roomType": "single",
+        "roomPrice":520.0,
+        "disponibilityDateFrom":"2024-02-10",
+        "disponibilityDateTo":"2024-03-20"
+    },
+    {
+        "hotelCode": "IR004",
+        "name": "InterContinental",
+        "place": "Cartagena",
+        "isBooked": false,
+        "roomType": "triple",
+        "roomPrice":937.0,
+        "disponibilityDateFrom":"2024-04-17",
+        "disponibilityDateTo":"2024-06-12"
+    }
+      
+]
