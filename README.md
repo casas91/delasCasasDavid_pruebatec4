@@ -59,7 +59,7 @@ Se permite la realización de operaciones de alta, baja y modificación sobre un
   - /agency/hotel-booking/{id} --------> Permite la busqueda de una reserva por su ID. (GET)
   - /agency/hotel-booking/delete/{id} -> Permite eliminar una reserva existente a partir de su ID. (DELETE)
   - /agency/hotel-booking/edit/{id} -> Permite editar una reserva existente a partir de su ID. (PUT)
-- *Paths Reserva Hoteles:*
+- *Paths Reserva Vuelos:*
   - /agency/flight-booking/new ---------> Permite realizar la reserva de un vuelo. (POST)
   - /agency/flight-booking -------------> Permite la busqueda de todos las reservas. (GET)
   - /agency/flight-booking/{id} --------> Permite la busqueda de una reserva por su ID. (GET)
